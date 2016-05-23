@@ -1,0 +1,2 @@
+# Luffy
+maya创建的Luffy模型导入到OpenGL使用Phong着色进行渲染
